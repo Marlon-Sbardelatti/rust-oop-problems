@@ -1,0 +1,1 @@
+/home/hetzwga/projects/furb-rust/exercicios/lista03/exe03/target/debug/exe03: /home/hetzwga/projects/furb-rust/exercicios/lista03/exe03/src/main.rs /home/hetzwga/projects/furb-rust/exercicios/lista03/exe03/src/site.rs

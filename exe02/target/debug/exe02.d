@@ -1,0 +1,1 @@
+/home/hetzwga/projects/furb-rust/exercicios/lista03/exe02/target/debug/exe02: /home/hetzwga/projects/furb-rust/exercicios/lista03/exe02/src/familia.rs /home/hetzwga/projects/furb-rust/exercicios/lista03/exe02/src/main.rs /home/hetzwga/projects/furb-rust/exercicios/lista03/exe02/src/pessoa.rs

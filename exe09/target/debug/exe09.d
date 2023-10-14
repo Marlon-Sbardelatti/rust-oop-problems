@@ -1,0 +1,1 @@
+/home/hetzwga/projects/furb-rust/exercicios/lista03/exe09/target/debug/exe09: /home/hetzwga/projects/furb-rust/exercicios/lista03/exe09/src/main.rs /home/hetzwga/projects/furb-rust/exercicios/lista03/exe09/src/multa.rs /home/hetzwga/projects/furb-rust/exercicios/lista03/exe09/src/proprietario.rs /home/hetzwga/projects/furb-rust/exercicios/lista03/exe09/src/veiculo.rs

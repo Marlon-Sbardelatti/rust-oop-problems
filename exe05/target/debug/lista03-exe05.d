@@ -1,0 +1,1 @@
+/home/hetzwga/projects/furb-rust/exercicios/lista03-exe05/target/debug/lista03-exe05: /home/hetzwga/projects/furb-rust/exercicios/lista03-exe05/src/funcionario.rs /home/hetzwga/projects/furb-rust/exercicios/lista03-exe05/src/main.rs /home/hetzwga/projects/furb-rust/exercicios/lista03-exe05/src/setor_pessoal.rs
